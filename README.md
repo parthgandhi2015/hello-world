@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+Hello Humans!
+
+Parth here. What am I doing here? I am just exploring it.
